@@ -1,0 +1,15 @@
+C:\Users\rikyg\Downloads\Just Progra Things\ProyectoPeaje\ProyectoPeaje\bin\Debug\ProyectoPeaje.exe.config
+D:\Downloads\ProyectoPeaje\ProyectoPeaje\ProyectoPeaje\bin\Debug\ProyectoPeaje.exe.config
+D:\Downloads\ProyectoPeaje\ProyectoPeaje\ProyectoPeaje\bin\Debug\ProyectoPeaje.exe
+D:\Downloads\ProyectoPeaje\ProyectoPeaje\ProyectoPeaje\bin\Debug\ProyectoPeaje.pdb
+D:\Downloads\ProyectoPeaje\ProyectoPeaje\ProyectoPeaje\obj\Debug\ProyectoPeaje.csprojResolveAssemblyReference.cache
+D:\Downloads\ProyectoPeaje\ProyectoPeaje\ProyectoPeaje\obj\Debug\ProyectoPeaje.csproj.CoreCompileInputs.cache
+D:\Downloads\ProyectoPeaje\ProyectoPeaje\ProyectoPeaje\obj\Debug\ProyectoPeaje.exe
+D:\Downloads\ProyectoPeaje\ProyectoPeaje\ProyectoPeaje\obj\Debug\ProyectoPeaje.pdb
+C:\Users\MyDam\source\repos\ProyectoPeaje\ProyectoPeaje\bin\Debug\ProyectoPeaje.exe.config
+C:\Users\MyDam\source\repos\ProyectoPeaje\ProyectoPeaje\bin\Debug\ProyectoPeaje.exe
+C:\Users\MyDam\source\repos\ProyectoPeaje\ProyectoPeaje\bin\Debug\ProyectoPeaje.pdb
+C:\Users\MyDam\source\repos\ProyectoPeaje\ProyectoPeaje\obj\Debug\ProyectoPeaje.csprojAssemblyReference.cache
+C:\Users\MyDam\source\repos\ProyectoPeaje\ProyectoPeaje\obj\Debug\ProyectoPeaje.csproj.CoreCompileInputs.cache
+C:\Users\MyDam\source\repos\ProyectoPeaje\ProyectoPeaje\obj\Debug\ProyectoPeaje.exe
+C:\Users\MyDam\source\repos\ProyectoPeaje\ProyectoPeaje\obj\Debug\ProyectoPeaje.pdb
